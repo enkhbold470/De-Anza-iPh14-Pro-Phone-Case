@@ -3,7 +3,7 @@
 This README file provides instructions for printing a phone case featuring DeAnza Mountain Lion merch, designed by Enkhbold using Fusion 360. The phone case will be printed using TPU filament on a 3D printer.
 
 
-![Phone Case](https://github.com/enkhbold470/De-Anza-iPh14-Pro-Phone-Case/blob/main/Render-images/IPhone_14_Pro_Case_v7_2023-May-16_10-39-07AM-000_CustomizedView5972610770_png)
+![Phone Case](https://github.com/enkhbold470/De-Anza-iPh14-Pro-Phone-Case/blob/main/Render-images/IPhone_14_Pro_Case_v7_2023-May-16_10-39-07AM-000_CustomizedView5972610770_png.png)
 
 
 ## Prerequisites
