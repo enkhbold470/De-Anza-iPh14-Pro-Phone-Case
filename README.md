@@ -1,4 +1,4 @@
-# DeAnza Mountain Lion Phone Case by Enkhbold
+# DeAnza Mountain Lion Phone Case
 
 This README file provides instructions for printing a phone case featuring DeAnza Mountain Lion merch, designed by Enkhbold using Fusion 360. The phone case will be printed using TPU filament on a 3D printer.
 
